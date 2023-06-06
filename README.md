@@ -4,9 +4,10 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Matteo,<br>
-        PhD student at the University of Bologna<br>
-        Member of the [AI for Medicine Research Group](https://github.com/aiformedresearch)<br>
-        Currently working on deep learning frameworks for precision medicine
+        PhD student at the <a href="https://www.unibo.it/sitoweb/matteo.lai3">University of Bologna</a><br>
+        Member of the <a href="https://github.com/aiformedresearch">AI for Medicine Research Group</a><br>
+        Currently working on deep learning frameworks for precision medicine<br>
+        with a focus on Autism Spectrum Disorder (ASD)<br>
     </i><br>
     <a href="https://www.linkedin.com/in/matteo-lai-519654204">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

@@ -5,7 +5,7 @@
     <i>
         I'm Matteo,<br>
         PhD student at the <a href="https://www.unibo.it/sitoweb/matteo.lai3/en">University of Bologna</a><br>
-        Member of the <a href="https://github.com/aiformedresearch">AI for Medicine Research Group</a><br>
+        Member of the <a href="https://aiformedresearch.github.io/aiformedresearch/">AI for Medicine Research Group</a><br>
         Currently working on deep learning frameworks for precision medicine<br>
         with a focus on Autism Spectrum Disorder (ASD)<br>
     </i><br>

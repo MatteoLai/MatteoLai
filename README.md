@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -11,9 +11,6 @@
     </i><br>
     <a href="https://www.linkedin.com/in/matteo-lai-519654204">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/Matteo_Lai3?t=qRDb3x-WtvnvRU88XZr0Mw&s=09">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
     </a>
 </p>
 

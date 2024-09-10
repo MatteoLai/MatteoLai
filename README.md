@@ -7,7 +7,7 @@
         <a href="https://www.unibo.it/sitoweb/matteo.lai3/en">PhD student</a> at the University of Bologna<br>
         Member of the <a href="https://aiformedresearch.github.io/aiformedresearch/">AI for Medicine Research Group</a><br>
         Currently working on deep learning frameworks for precision medicine<br>
-        with a focus on Autism Spectrum Disorder (ASD)<br>
+        with a focus on generative models<br>
     </i><br>
     <a href="https://www.linkedin.com/in/matteo-lai-519654204">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

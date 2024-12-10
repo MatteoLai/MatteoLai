@@ -1,17 +1,21 @@
-<h1 align="center">Hi there! 👋</h1>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/matteo-lai-519654204/)
+[![Chrome Web Store Badge](https://img.shields.io/badge/Website-f45842?logo=chromewebstore&logoColor=fff&style=plastic)](https://www.unibo.it/sitoweb/matteo.lai3/en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=plastic)](https://scholar.google.it/citations?user=YCnKyqIAAAAJ&hl=it&oi=ao)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=plastic)](https://orcid.org/0009-0006-1314-913X)
+[![](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white&label=aiformedresearch)](https://github.com/aiformedresearch)
 
+
+<h1 align="center">Hi there! 👋</h1>
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
     <i>
         I'm Matteo,<br>
-        <a href="https://www.unibo.it/sitoweb/matteo.lai3/en">PhD student</a> at the University of Bologna<br>
-        Member of the <a href="https://aiformedresearch.github.io/aiformedresearch/">AI for Medicine Research Group</a><br>
-        Currently working on deep learning frameworks for precision medicine<br>
-        with a focus on generative models<br>
+        Biomedical engineer,<br>
+        PhD student in Health and Technology at the University of Bologna,<br>
+        Member of the <a href="https://aiformedresearch.github.io/aiformedresearch/">AI for Medicine Research Group</a>.<br>
+        Currently working on generative models for medical imaging<br>
+        for the generation and validation of <br>
+        synthetic brain MR images<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/matteo-lai-519654204">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
 </p>
 
 ### Programming languages
@@ -23,6 +27,7 @@
 
 ### Frameworks
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=Tensorflow)](https://www.tensorflow.org/)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/)

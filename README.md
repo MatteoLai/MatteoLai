@@ -14,7 +14,7 @@
         Member of the <a href="https://aiformedresearch.github.io/aiformedresearch/">AI for Medicine Research Group</a>.<br>
         Currently working on generative models for medical imaging<br>
         for the generation and validation of <br>
-        synthetic brain MR images<br>
+        medical imaging data<br>
     </i><br>
 </p>
 

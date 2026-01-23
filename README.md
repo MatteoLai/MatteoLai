@@ -4,18 +4,20 @@
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=plastic)](https://orcid.org/0009-0006-1314-913X)
 
 
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there 👋</h1>
+
 <p align="center">
-    <i>
-        I'm Matteo,<br>
-        Biomedical engineer,<br>
-        PhD student in Health and Technology at the University of Bologna,<br>
-        Member of the <a href="https://aiformedresearch.github.io/aiformedresearch/">AI for Medicine Research Group</a>.<br>
-        Currently working on generative models for medical imaging<br>
-        for the generation and validation of <br>
-        medical imaging data<br>
-    </i><br>
+  <i>
+    I'm Matteo Lai,<br>
+    Applied AI / ML Scientist for Medicine & Healthcare,<br>
+    with a background in biomedical engineering and a Ph.D. in Health and Technologies.<br><br>
+    I work on applied AI for healthcare, with a focus on generative models for medical imaging,<br>
+    synthetic data, and rigorous evaluation and validation methods.<br><br>
+    I enjoy building reproducible ML pipelines and open-source tools<br>
+    that can be meaningfully used in real-world medical and research contexts.
+  </i>
 </p>
+
 
 ### Programming languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)

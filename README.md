@@ -1,8 +1,7 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/matteo-lai-519654204/)
-[![Chrome Web Store Badge](https://img.shields.io/badge/Website-f45842?logo=chromewebstore&logoColor=fff&style=plastic)](https://www.unibo.it/sitoweb/matteo.lai3/en)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/matteolai3/)
+[![Chrome Web Store Badge](https://img.shields.io/badge/Website-f45842?logo=chromewebstore&logoColor=fff&style=plastic)](https://matteolai.lovable.app/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=plastic)](https://scholar.google.it/citations?user=YCnKyqIAAAAJ&hl=it&oi=ao)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=plastic)](https://orcid.org/0009-0006-1314-913X)
-[![](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white&label=aiformedresearch)](https://github.com/aiformedresearch)
 
 
 <h1 align="center">Hi there! 👋</h1>

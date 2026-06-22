@@ -9,12 +9,8 @@
 <p align="center">
   <i>
     I'm Matteo Lai,<br>
-    Applied AI / ML Scientist for Medicine & Healthcare,<br>
-    with a background in biomedical engineering and a Ph.D. in Health and Technologies.<br><br>
-    I work on applied AI for healthcare, with a focus on generative models for medical imaging,<br>
-    synthetic data, and rigorous evaluation and validation methods.<br><br>
-    I enjoy building reproducible ML pipelines and open-source tools<br>
-    that can be meaningfully used in real-world medical and research contexts.
+    Biomedical engineer - Ph.D. in Health and Technologies (AI for medicine),<br>
+    building <a href="https://soma-landing-page-seven.vercel.app/">SOMA Health</a>.
   </i>
 </p>
 

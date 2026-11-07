@@ -10,7 +10,7 @@
   <i>
     I'm Matteo Lai,<br>
     Biomedical engineer - Ph.D. in Health and Technologies (AI for medicine),<br>
-    building <a href="https://soma-landing-page-seven.vercel.app/">SOMA Health</a>.
+    building in healthcare.
   </i>
 </p>
 
